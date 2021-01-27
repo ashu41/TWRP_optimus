@@ -1,0 +1,1 @@
+androidboot.selinux=permissive firmware_class.path=/vendor/firmware printk.devkmsg=on

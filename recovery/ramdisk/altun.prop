@@ -1,0 +1,3 @@
+ro.hardware=altun
+ro.product.model=Altun
+ro.dirac.config_path=/vendor/etc/audio/altun/diracmobile.config

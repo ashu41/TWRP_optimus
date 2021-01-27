@@ -1,0 +1,5 @@
+ro.board.platform=banks
+ro.boot.usbcontroller=fa200000.usb
+ro.boot.configfs=1
+# load 5 mode nvram by default
+persist.sys.proj.nvram.mode=5
