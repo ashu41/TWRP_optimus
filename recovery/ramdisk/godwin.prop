@@ -1,4 +1,0 @@
-ro.hardware=godwin
-ro.product.board=godwin
-ro.product.model=Godwin
-ro.dirac.config_path=/vendor/etc/audio/godwin/diracmobile.config

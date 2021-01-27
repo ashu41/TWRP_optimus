@@ -1,3 +1,0 @@
-ro.hardware=abies-evb
-ro.product.model=Abies EVB
-ro.dirac.config_path=/vendor/etc/audio/abies-evb/diracmobile.config

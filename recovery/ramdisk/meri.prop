@@ -1,3 +1,0 @@
-ro.hardware=meri
-ro.product.model=MI 5C
-ro.dirac.config_path=/vendor/etc/audio/meri/diracmobile.config

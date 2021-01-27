@@ -1,3 +1,0 @@
-ro.hardware=banks-evb
-ro.product.model=Banks EVB
-ro.dirac.config_path=/vendor/etc/audio/banks-evb/diracmobile.config

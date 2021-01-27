@@ -1,5 +1,0 @@
-ro.board.platform=abies
-ro.boot.usbcontroller=fa300000.usb
-ro.boot.configfs=1
-# load 5 mode nvram by default
-persist.sys.proj.nvram.mode=5
